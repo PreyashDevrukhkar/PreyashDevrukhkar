@@ -1,25 +1,40 @@
-# Hi there, I'm [Preyash Devrukhkar] 👋
+### Hi there, I'm [Preyash] 👋
 
-## About Me
-Currently preparing for the IIT JEE exam. I have a passion for coding and enjoy exploring the world of computer science.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "[Preyash Devrukhkar]"
+        self.learning = "Exploring new technologies"
+        self.hobbies = ["Coding", "Gym", "Music"]
 
-## Hobbies
-- 📚 Studying for IIT JEE
-- 💻 Coding and Programming
-- 🎨 Designing and Creating Websites
-- 🎵 Playing Music
-- 🖌️ Drawing And Sketching
-
-## My Tech Stack
-```plaintext
-⚙️ HTML       ★★★★★
-🐍 Python     ★★☆☆☆
-🎨 CSS        ★☆☆☆☆
+    def introduce(self):
+        return f"Hey there! I'm {Preyash}, a passionate developer who loves writing clean and efficient code. Always exploring new things!"
 ```
 
-## Connect with Me
-Feel free to connect with me on :
-- 📫 Gmail: devrukhkarpreyash123@gmail.com
-- 📷 Instagram:  [preyash_devrukhkar](https://www.instagram.com/preyash_devrukhkar/)
+### 🚀 Technologies & Tools
 
-- Feel free to reach out! Let's code and learn together. 🚀
+- 💻 **Languages:** Python, C++  
+- 🌐 **Web Development:** HTML, CSS  
+- 🛠 **Tools & Platforms:** Git, GitHub, VS Code, Linux  
+- 🔥 **Currently Learning:** Java Script & Java
+
+### 📊 My Tech Stack
+
+```plaintext
+- ⚙️ HTML         ★★★★★
+- 🐍 Python       ★★★★☆
+- 🎨 CSS          ★★★☆☆
+- 💻 C++          ★★★★☆
+- 💡 Java         ★☆☆☆☆
+- 🔧 Java Script  ★☆☆☆☆
+```
+
+
+### 🤝 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/preyash_devrukhkar/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1212798048699289652)
+
+---
+
+⭐️ Inspired by the love for coding!
